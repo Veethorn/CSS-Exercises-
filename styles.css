@@ -5,3 +5,19 @@ div {
     align-items: center;
     font-weight: 900;
     }
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: green;
+    font-size: 24px;
+
+}
